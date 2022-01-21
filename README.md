@@ -1,4 +1,6 @@
-### Hi there 👋
+# Связаться со мной:
+Telegram: @maximized_chill
+Gmail: sobolutcom183@gmail.com
 
 <!--
 **kitsune-clan/kitsune-clan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
